@@ -1,0 +1,13 @@
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.exe
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.deps.json
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.runtimeconfig.json
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.runtimeconfig.dev.json
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.dll
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\bin\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.pdb
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.csprojAssemblyReference.cache
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.AssemblyInfoInputs.cache
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.AssemblyInfo.cs
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.csproj.CoreCompileInputs.cache
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.dll
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.pdb
+D:\_Projetos\Telecomunicacoes\ConsoleTelecomunicacoes\ConsoleTelecomunicacoes\obj\Debug\netcoreapp3.1\ConsoleTelecomunicacoes.genruntimeconfig.cache

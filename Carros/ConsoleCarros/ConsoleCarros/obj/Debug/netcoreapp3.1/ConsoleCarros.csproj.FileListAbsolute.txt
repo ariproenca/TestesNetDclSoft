@@ -1,0 +1,13 @@
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.exe
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.deps.json
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.runtimeconfig.json
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.runtimeconfig.dev.json
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.dll
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\bin\Debug\netcoreapp3.1\ConsoleCarros.pdb
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.csprojAssemblyReference.cache
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.AssemblyInfoInputs.cache
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.AssemblyInfo.cs
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.csproj.CoreCompileInputs.cache
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.dll
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.pdb
+D:\_Projetos\Carros\ConsoleCarros\ConsoleCarros\obj\Debug\netcoreapp3.1\ConsoleCarros.genruntimeconfig.cache
